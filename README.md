@@ -1,4 +1,4 @@
-## Olá, eu sou o Sam Ferreira, apaixonado por programação e tecnologia!
+## Hi, I'm Sam Ferreira, passionate about programming and technology!
 <div align="center">
   <a href="https://github.com/ireratupan">
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=ireratupan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
